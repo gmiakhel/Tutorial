@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 asdfasdf.
 
 dasf
@@ -8,3 +9,6 @@ terased
 asdfasdf
 asdf
 asdf
+=======
+asdfasdf
+>>>>>>> parent of 3d07d55... test2
